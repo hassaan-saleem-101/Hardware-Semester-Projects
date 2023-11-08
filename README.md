@@ -5,4 +5,4 @@ The projects include:
 2. Designing a PID controller to maintain the temperature of an environment
 3. Building an electronic voting machine using VHDL and FPGA boards
 4. Implementing sleep mode using a watch-dog timer in IoT
-5. IoT based semester project   
+5. ESP8266 serial communication with ESP32 using HC-12 Module     
